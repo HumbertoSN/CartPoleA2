@@ -1,0 +1,2 @@
+Algoritmo,Timesteps,Learning_Rate,Gamma,Recompensa_Media
+PPO,10000,0.0003,0.99,342.0
